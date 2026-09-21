@@ -161,7 +161,7 @@ Interface disponible sur `http://localhost:5173`
 L'interface propose deux visualisations côte à côte :
 
 - **Graphique linéaire** — Évolution du prix de vente médian au m² par mois en 2025
-- **Carte choroplèthe** — Prix médian au m² par commune du Val-de-Marne, avec légende par quintile et popup au survol
+- **Carte choroplèthe** —  Prix médian au m² par commune du Val-de-Marne, avec une légende graduée et un popup au clic détaillant le prix médian et le nombre de transactions.
 
 ---
 
