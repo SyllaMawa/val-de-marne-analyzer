@@ -174,8 +174,3 @@ L'interface propose deux visualisations côte à côte :
 | Limites communes IGN | GeoJSON des communes françaises | [github.com/gregoiredavid](https://github.com/gregoiredavid/france-geojson) |
 
 ---
-
-## Licence
-
-Données DVF et cadastre : Licence Ouverte / Open Licence (Etalab).  
-Code source : MIT.
