@@ -3,7 +3,6 @@
 # ============================================================
 data/dvf/
 data/cadastre/
-data/limites_communes.geojson
 data/parcelles_finales.geojson
 data/parcelles_dvf.csv
 data/parcelles_indicateurs.csv
