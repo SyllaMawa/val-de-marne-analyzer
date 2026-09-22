@@ -188,8 +188,8 @@ function App() {
           <h1>Val-de-Marne</h1>
 
           <p className="description">
-            Analysez et comparez les territoires du Val-de-Marne
-            à partir des données immobilières DVF 2025.
+            Explorez le marché immobilier du Val-de-Marne à partir des transactions DVF 2025. Comparez les prix médians au m² entre les communes et visualisez leur répartition sur la carte.
+
           </p>
         </section>
 
